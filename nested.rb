@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-
+programmer_hash[:alan_kay_is_known_for]
 
 end
 
